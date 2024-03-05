@@ -1,7 +1,7 @@
 {
   "project1": {
-    "title": "Project Manager",
-    "description": "Project Manager is a comprehensive, open-source solution crafted from scratch for software houses and organizations in need of efficient workflow management. It is meticulously designed to streamline operations, providing comprehensive tools to seamlessly oversee projects, tasks, and resources.",
+    "title": "blog",
+    "description": "我也曾豪情万丈闯荡大都市，奈何苦于无识才伯乐，一身才华无处施展，遂激起逆反心，对于一些低技能的工作，总是可以完美地不做到位，以至于到最后没有人愿意再给我工作机会。只能吃着国家低保，靠着国家帮扶照顾，算衣食无忧，勉强度日，感谢祖国，感谢党。.",
     "github_repo": "https://github.com/dragon-devs/project-manager",
     "project_url": "https://project-manager-mu-teal.vercel.app/projects/grid",
     "tags": [
